@@ -1,0 +1,54 @@
+/* Colors and fonts */
+
+body{
+	background: #fcf8e8;
+	color: #ecdfc8;
+	font-family: Century;
+	line-height: 1.6;
+	font-size: 1.4em;
+}
+
+h1 {
+	color: #ecb390;
+	font-size: 50px;
+}
+
+img{
+	border-radius: 65%;
+	border: 10px solid #ecb390;
+}
+
+.card-img {
+	display: flex;
+	justify-content: space-around;
+	padding-top: 15px;
+}
+
+.customize-font {
+	font-size: 20px;
+}
+
+.card{
+	border: 10px solid #ecb390;
+	background: #df7861;
+	width: 1100px;
+	margin: 0 auto;
+	margin-top: 30px;
+	padding: 5px;
+	border-radius: 20px;
+	padding: 25px 15px;
+}
+
+i {
+	font-size: 50px;
+	margin-right: 30px;
+}
+
+.align-center {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: #ecdfc8;
+}
